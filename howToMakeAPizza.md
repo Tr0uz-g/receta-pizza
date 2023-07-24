@@ -1,13 +1,13 @@
 *NOMBRES:
 1.
 2.
-3.
+3.JUAN FARFAN
 4.PABLO TORRES
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 *RECETA PIZZA:
 1.Masa para pizza.
 2.Salsa de tomate para pizza.
-3.
-4.
+3.Queso mozarella
+4.Peperoni
 5.
 6.
