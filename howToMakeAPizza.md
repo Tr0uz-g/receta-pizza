@@ -7,7 +7,7 @@
 *RECETA PIZZA:
 1.Masa para pizza.
 2.Salsa de tomate para pizza.
-3.
-4.
+3.Queso
+4.Pepperoni 
 5.
 6.
